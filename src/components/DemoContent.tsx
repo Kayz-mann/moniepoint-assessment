@@ -106,7 +106,7 @@ const DemoContent = () => {
           </h1>
         </div>
       </div>
-      <style jsx>{`
+      <style>{`
         .scrolling-text {
           display: inline-block;
           white-space: nowrap;
