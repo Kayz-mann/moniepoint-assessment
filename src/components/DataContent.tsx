@@ -1,5 +1,4 @@
 import { PlusIcon } from "@heroicons/react/20/solid";
-import React from "react";
 import first from "../../src/assets/first.png";
 import second from "../../src/assets/second.png";
 const DataContent = () => {

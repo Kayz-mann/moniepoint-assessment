@@ -50,6 +50,8 @@ const DemoContent = () => {
     threshold: 0.1, // Adjust the threshold as needed
   });
 
+  console.log(ref);
+
   useEffect(() => {
     const textElement = document.querySelector(".scrolling-text");
     if (textElement) {
